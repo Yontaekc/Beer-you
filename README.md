@@ -14,7 +14,7 @@ BreweryDB API is not shared in this repository. Will require API key to successf
 
 ### Installing
 
-Install all the requried node modules.
+Install all the required node modules.
 
 In the terminal, run npm install
 
