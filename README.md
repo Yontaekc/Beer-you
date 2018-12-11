@@ -2,6 +2,8 @@
 
 Single page application where clients can search for favorite beers or breweries and can add or delete their favorite beers.
 
+![alt text](https://s3-us-west-1.amazonaws.com/realyon/Screen+Shot+2018-12-10+at+8.21.39+PM.png)
+
 ## Getting Started
 
 Follow the steps below to run the server!
