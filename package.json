@@ -1,0 +1,40 @@
+{
+  "name": "BeerYou",
+  "version": "1.0.0",
+  "description": "Full-Stack App",
+  "main": "index.js",
+  "scripts": {
+    "react-dev": "webpack -d --watch",
+    "server-dev": "nodemon server/index.js"
+  },
+  "author": "Yon Taek Chung",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.1",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.0-beta.6",
+    "compression-webpack-plugin": "^2.0.0",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0",
+    "webpack-command": "^0.4.1",
+    "webpack-dev-middleware": "^3.2.0",
+    "webpack-dev-server": "^3.1.8",
+    "webpack-hot-middleware": "^2.23.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "brewerydb-node": "0.0.1",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "faker": "^4.1.0",
+    "jquery": "^3.1.1",
+    "mongoose": "^5.3.4",
+    "mysql": "^2.16.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "request": "^2.81.0",
+    "webpack-merge": "^4.1.4"
+  }
+}
